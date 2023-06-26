@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CRUD-ClubeDoLivroFantastico/static/css/main.74a9a09d.css",
+    "main.js": "/CRUD-ClubeDoLivroFantastico/static/js/main.86d01eae.js",
+    "static/js/787.94e2010f.chunk.js": "/CRUD-ClubeDoLivroFantastico/static/js/787.94e2010f.chunk.js",
+    "static/media/banner.png": "/CRUD-ClubeDoLivroFantastico/static/media/banner.5b0497d664f889ae5879.png",
+    "index.html": "/CRUD-ClubeDoLivroFantastico/index.html",
+    "main.74a9a09d.css.map": "/CRUD-ClubeDoLivroFantastico/static/css/main.74a9a09d.css.map",
+    "main.86d01eae.js.map": "/CRUD-ClubeDoLivroFantastico/static/js/main.86d01eae.js.map",
+    "787.94e2010f.chunk.js.map": "/CRUD-ClubeDoLivroFantastico/static/js/787.94e2010f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74a9a09d.css",
+    "static/js/main.86d01eae.js"
+  ]
+}
